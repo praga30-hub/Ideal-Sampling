@@ -167,7 +167,7 @@ plt.show()
 Attach the program
 ```
 # Output Waveform
-```
+
 1.Impulse sampling output waveform
 <img width="1072" height="493" alt="image" src="https://github.com/user-attachments/assets/0eb1340a-c535-4abf-aa07-e5b6f0bb7c41" />
 <img width="1076" height="499" alt="image" src="https://github.com/user-attachments/assets/47fda804-a8a9-45a6-8bcc-d20ed3687594" />
@@ -183,11 +183,9 @@ Attach the program
 
 
 
-Attach the output waveform
-```
 # Results
-```
+
 Impulse sampling gives perfect reconstruction, while natural and flat-top sampling allow approximate reconstruction, with flat-top introducing slight amplitude distortion.
 Attach the output waveform
-```
+
 # Hardware experiment output waveform.
